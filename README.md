@@ -15,10 +15,10 @@
 
 2. <h3>Muxtni ishga tushuring!
 
-<h2>Windows</h2> `.venv\sicripts\activate`
+<h2>Windows `.venv\sicripts\activate`
 
 
-<h2>Macbook/Lenux</h2> `sourse venv/bin/activate`
+<h2>Macbook/Lenux `sourse venv/bin/activate`
 
 3. <h3>Kerakli kutubxonalarni o'rnating!
 
