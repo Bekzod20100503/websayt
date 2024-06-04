@@ -4,7 +4,7 @@
 
 <h4>Dasturni ishga tushurish uchun barcha qadamlarni bajarish shart!
 
-1. <h3>Vertual mixitni yarating!
+1. <h3>Vertual mixitni yarating!</h3>
 
 
 <h2>Windows</h2>`py -m venv venv`
