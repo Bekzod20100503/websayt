@@ -1,8 +1,8 @@
 # Blog Websayt
 
-<h3>Bu webmaxsulot yangiliklarni post shaklida saytega yuklaydi!
+<h3>Bu webmaxsulot yangiliklarni post shaklida saytega yuklaydi!</h3>
 
-<h4>Dasturni ishga tushurish uchun barcha qadamlarni bajarish shart!
+<h4>Dasturni ishga tushurish uchun barcha qadamlarni bajarish shart!</h4>
 
 1. <h3>Vertual mixitni yarating!</h3>
 
@@ -13,12 +13,12 @@
 <h2>Macbook</h2>`python -m venv venv`
 
 
-2. <h3>Muxtni ishga tushuring!
+2. <h3>Muxtni ishga tushuring!</h3>
 
-<h2>Windows `.venv\sicripts\activate`
+<h2>Windows</h2> `.venv\sicripts\activate`
 
 
-<h2>Macbook/Lenux `sourse venv/bin/activate`
+<h2>Macbook/Lenux</h2> `sourse venv/bin/activate`
 
 3. <h3>Kerakli kutubxonalarni o'rnating!
 
