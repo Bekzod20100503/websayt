@@ -1,5 +1,9 @@
 # Blog Websayt
 
+<p align="center">
+    <img height="400" src="https://github.com/Bekzod20100503/websayt/blob/main/media/web.png">
+</p>
+
 <h3>Bu webmaxsulot yangiliklarni post shaklida saytega yuklaydi!</h3>
 
 <h4>Dasturni ishga tushurish uchun barcha qadamlarni bajarish shart!</h4>
